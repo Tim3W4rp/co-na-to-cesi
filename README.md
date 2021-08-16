@@ -1,3 +1,5 @@
+# Simple react app for presenting the game "Co na to Češi?" at my graduation party
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
