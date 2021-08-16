@@ -1,4 +1,6 @@
-# Simple react app for presenting the game "Co na to Češi?" at my graduation party
+# Co na to Češi?
+
+Simple React app created to play the game at my graduation party. Took me three evenings to code this. Could have been two but it took a while to write out the answers objects.
 
 # Getting Started with Create React App
 
@@ -15,6 +17,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+# Description
+
+Use controls in the upper right corner to:
+
+"<" select left team
+"X" mark answer as incorrect
+"Checkmark" add current amount of points to selected team
+"->" advance to the next round
+">" select right team
 
 ### `yarn test`
 
