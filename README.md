@@ -1,6 +1,6 @@
 # Co na to Češi?
 
-Simple React app created to play the game at my graduation party. Took me three evenings to code this. Could have been two but it took a while to write out the answers objects.
+Simple React app created to play the game at my graduation party.
 
 # Getting Started with Create React App
 
